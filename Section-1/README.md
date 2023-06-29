@@ -3,7 +3,7 @@
 Welcome to Learners' Space: Introduction to Cryptography! 
 
 The roots of cryptography date back to history when they were first used for being able to send messages to another party such that even if an enemy intercepted the message, they couldn’t make sense of it. This is the principle of confidentiality: no one except the authorised parties should be able to make sense of the data. Classical ciphers were used to encrypt a plaintext message (in a particular language, we usually use English in our examples) into unintelligible ciphertext which cannot be decrypted without knowledge of a certain secret key known only to the autrhoised participants. Of course, “cannot be decrypted” is an idealisation and classical ciphers, despite trying their best to be hard to decrypt without a key, are vulnerable to all sorts of attacks that would enable an attacker to decrypt a ciphertext without knowledge of the secret key. Analysing cryptographic protocols rigorously is the field of cryptanalysis.
-In this week, we explore a few classical ciphers. We then move on to study the two most common forms of encoding which, though aren’t technically part of cryptography, are invaluable to solving practical challenges in modern cryptography which would be covered in the subsequent weeks.
+In this section, we explore a few classical ciphers. We then move on to study the two most common forms of encoding which, though aren’t technically part of cryptography, are invaluable to solving practical challenges in modern cryptography which would be covered in the subsequent sections.
 
 ## Classical Ciphers
 ### Caesar Cipher
