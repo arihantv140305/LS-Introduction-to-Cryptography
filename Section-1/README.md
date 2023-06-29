@@ -78,7 +78,7 @@ Hexadecimal encoding is achieved by taking the ASCII value of each character and
 </details>
 
 ### Base64
-Base64 is a kind of encoding where each character represents one of 64 integers. In Base64 encoding, another special character “=” is used to represent padding. This is needed because ASCII strings are always multiple of 8 bits whereas Base64 strings are multiple of 6 bits, hence whenever we wish to encode an ASCII string that’s not a multiple of 6 bits, we need to pad the Base64 encoding to make the encoding-length a “multiple of 8 bits”.
+Base64 is a kind of encoding where each character represents one of 64 integers. In Base64 encoding, another special character “=” is used to represent padding. This is needed because ASCII strings are always multiples of 8 bits whereas Base64 strings are multiples of 6 bits, hence whenever we wish to encode an ASCII string that’s not a multiple of 6 bits, we need to pad the Base64 encoding to make the encoding-length a “multiple of 8 bits”.
 - https://dev.to/neumaneuma/decoding-the-confusing-world-of-encodings-part-2-4lo
 - https://stackabuse.com/encoding-and-decoding-base64-strings-in-python/
 <details>
