@@ -23,7 +23,7 @@ The ROT13 is nothing but the Caesar cipher with key=13. It’s special because t
 </details>
 
 ### Vigenère Cipher
-The Vigenère Cipher, also known as the Polyalphabetic Cipher, was once considered one of the hardest ciphers to crack; so much so that it was also called le chiffrage indéchiffrable (the indecipherable cipher). Unfortunately for the cipher though, it’s very easy to crack using frequency analysis.
+The Vigenère Cipher, also known as the Polyalphabetic Cipher, was once considered one of the hardest ciphers to crack; so much so that it was also called le chiffrage indéchiffrable (the indecipherable cipher). Unfortunately for the cipher though, it’s very easy to crack using statistical analysis.
 - https://pages.mtu.edu/~shene/NSF-4/Tutorial/VIG/Vig-Base.html
 <details>
 <summary> <strong>EXERCISE:</strong> Decrypt <em>Eiec fwijd bf Qpamvrvcs Isaasxi'd ugzc oa tsc uzqpgayydgkif oq Taownrrp aaxzee?</em> [Vigenère; KEY=ANALYSIS]</summary>
