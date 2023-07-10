@@ -25,9 +25,9 @@ Key: digital
 Sample 3:
 
 Ciphertext:
-Vvh wpcytsse zcr welvr a diijktlg ufpl. Dlv jggwpfjw teveapu rj uyi msru lqfpiokid lc r hwncpf, kle zvvgeqxtbkmox ek egoow, uyi ixwfepwd, xiv wunhvf yoniozrg kx dafblkik, xho tiwugxvf ks segtwgr eidryso jraniui dfyln lrng bdxjfrav gffustyfegec, xyw fsvtbzv op xyw ncqk xvikc aywp hki qisbvid kgspie zrsypltns, wlf iipoekwf rdwizrgc sw mrzljuvh hytvk, vvh qfexav wygeyv, xiv xexwzgp oqh uyi fbyjltowmpe enn xyw wfjiotc axh kzg ghgsvgy kpc uqbyisxid kru zcapisvh fevzgwgoc vgsn rmj kmiop. Iv govprhusg mo Uicoqswt.
+vvh wpcytsse zcr welvr a diijktlg ufpl. dlv jggwpfjw teveapu rj uyi msru lqfpiokid lc r hwncpf, kle zvvgeqxtbkmox ek egoow, uyi ixwfepwd, xiv wunhvf yoniozrg kx dafblkik, xho tiwugxvf ks segtwgr eidryso jraniui dfyln lrng bdxjfrav gffustyfegec, xyw fsvtbzv op xyw ncqk xvikc aywp hki qisbvid kgspie zrsypltns, wlf iipoekwf rdwizrgc sw mrzljuvh hytvk, vvh qfexav wygeyv, xiv xexwzgp oqh uyi fbyjltowmpe enn xyw wfjiotc axh kzg ghgsvgy kpc uqbyisxid kru zcapisvh fevzgwgoc vgsn rmj kmiop. iv govprhusg mo uicoqswt.
 
 Plaintext:
-The solution had taken a terrific toll. The restless turning of the mind tormented by a puzzle, the preoccupation at meals, the insomnia, the sudden wakening at midnight, the pressure to succeed because failure could have national consequences, the despair of the long weeks when the problem seemed insoluble, the repeated dashings of uplifted hopes, the mental shocks, the tension and the frustration and the urgency and the secrecy all converged and hammered furiously upon his skull. He collapsed in December.
+the solution had taken a terrific toll. the restless turning of the mind tormented by a puzzle, the preoccupation at meals, the insomnia, the sudden wakening at midnight, the pressure to succeed because failure could have national consequences, the despair of the long weeks when the problem seemed insoluble, the repeated dashings of uplifted hopes, the mental shocks, the tension and the frustration and the urgency and the secrecy all converged and hammered furiously upon his skull. he collapsed in december.
 
 Key: codebreakers
