@@ -12,3 +12,6 @@ You can use [these three sample test cases](./samples.txt) to verify your code.
 
 ### Submission instruction
 Create a file `script.py`/`script.c`/`script.cpp` which solves the challenge. Create a README file with clear instructions on how to execute your script.
+
+### Submission Link
+https://forms.gle/KCgXNanqxDV5n1LY9
