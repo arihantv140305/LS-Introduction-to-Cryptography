@@ -11,4 +11,4 @@ The input ciphertext will only contain lower case letters, spaces and punctuatio
 You can use [these three sample test cases](./samples.txt) to verify your code. 
 
 ### Submission instruction
-Create a file `script.py`/`script.c`/`script.cpp` which solves the challenge.
+Create a file `script.py`/`script.c`/`script.cpp` which solves the challenge. Create a README file with clear instructions detailing how to execute your script.
