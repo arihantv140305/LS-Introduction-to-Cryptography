@@ -7,4 +7,4 @@ Write a script to input a Vigenère-encrypted ciphertext and print the plaintext
 You can use these three sample test cases to verify your code. You may use Python, C or C++ to write your program.
 
 ### Submission instruction
-Create a file `script.py`/`script.c`/`script.cpp` which solves the challenge. The first line of this file should contain a comment with the flag you obtained.
+Create a file `script.py`/`script.c`/`script.cpp` which solves the challenge.
