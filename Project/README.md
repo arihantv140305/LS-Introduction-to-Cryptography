@@ -14,4 +14,4 @@ You can use [these three sample test cases](./samples.txt) to verify your code.
 Create a file `script.py`/`script.c`/`script.cpp` which solves the challenge. Create a README file with clear instructions on how to execute your script.
 
 ### Submission Link
-https://forms.gle/KCgXNanqxDV5n1LY9
+Add all files related to your project submission in a public GitHub repository or a publicly viewable Google Drive Folder. Submit the link to the GitHub repository or Google Drive Folder here: https://forms.gle/KCgXNanqxDV5n1LY9
