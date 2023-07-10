@@ -2,7 +2,7 @@
 
 ## Part 1 - Vigenère Cracker
 
-Write a script to input a Vigenère-encrypted ciphertext and print the plaintext and key. 
+Write a script to input a Vigenère-encrypted ciphertext and print the plaintext and key. Find out how to perform cryptanalysis on the Vignère cipher using Google or elsewhere.
 
 ### Constraints
 The input ciphertext will only contain lower case letters, spaces and punctuations. The spaces and punctuations are not encrypted. You may use Python, C or C++ to write your script.
