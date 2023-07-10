@@ -130,5 +130,5 @@ For example, you can view the public key of the website you're browsing in its c
 - https://www.youtube.com/playlist?list=PL1H1sBF1VAKU05UWhDDwl38CV4CIk7RLJ 
 
 
-Discussions among mentees are encouraged and we request you to use the corresponding Team on MS Teams or the correspondong WhatsApp group for the same.
+Discussions among mentees are encouraged and we request you to use the corresponding Team on MS Teams or the corresponding WhatsApp group for the same.
 <p align="center">Created with :heart: by <a href="https://linktr.ee/csec.iitb">CSeC</a></p>
