@@ -1,7 +1,7 @@
 # Section-2 (Introduction to Modern Cryptography)
 Welcome back to the LS: Introduction to Cryptography! This is Section 2: Modern Cryptography.
 
-Section 1 covered classical ciphers and different types of encodings (which, as stated, is not a cipher but very useful 
+Section 1 covered classical ciphers and different types of encodings (which, as stated, are not ciphers but very useful 
 for describing data in different ways, specifically integers which can be then utilised in other encryption schemes). 
 However, now you enter the realm of
 modern cryptography. The schemes usually involve a series of mathematical steps to encrypt the data using key (or keys) to get
