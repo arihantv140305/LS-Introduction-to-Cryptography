@@ -5,7 +5,7 @@
 Write a script to input a Vigenère-encrypted ciphertext and print the plaintext and key. Find out how to perform cryptanalysis on the Vignère cipher using Google or elsewhere.
 
 ### Constraints
-The input ciphertext will only contain lower case letters, spaces and punctuations. The spaces and punctuations are not encrypted. You may use Python, C or C++ to write your script.
+The input ciphertext will only contain lower case letters, spaces and punctuations. The spaces and punctuations are not encrypted. The key length would be less than or equal to 12 characters. You may use Python, C or C++ to write your script.
 
 ### Verifying your solution
 You can use [these three sample test cases](./samples.txt) to verify your code. 
