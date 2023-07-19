@@ -4,6 +4,6 @@ Welcome to the _Introduction to Cryptography_ course brought to you by CSeC IITB
 
 Head on to [Section-1](Section-1/README.md) to get started! [[Challenges](Section-1/Challenges)] <br>
 Once you are done with Section-1, move on to [Section-2](Section-2/README.md) for further content! [[Challenges](Section-2/Challenges)] <br>
-After you're done with Section-2, move on to the last section of the course - [Section-3](Section-3/README.md)!
+After you're done with Section-2, move on to the last section of the course - [Section-3](Section-3/README.md)! [[Challenges](Section-3/Challenges)]
 
 You can find the project statement [here](Project/README.md).
