@@ -9,7 +9,7 @@ ef = np.array([
     0.00095, 0.05987, 0.06327, 0.09056, 0.02758, 0.00978, 0.02360, 0.00150,
     0.01974, 0.00074
 ])
-max_key_length_to_test = 20
+max_key_length_to_test = 12
 
 def calculate_ic(text):
     text = text.lower()
